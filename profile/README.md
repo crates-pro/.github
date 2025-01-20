@@ -9,9 +9,11 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-
 ## CratesPro - A Rust Crate Analysis and Recommendation Platform
-CratesPro is a sophisticated platform designed to analyze and evaluate Rust crates. By leveraging AI-driven models and multidimensional analytics, CratesPro provides developers with comprehensive insights and intelligent recommendations about crates, helping to identify potential vulnerabilities, optimize dependencies, and enhance security and efficiency in Rust development. The platform tracks dependencies, monitors the propagation of vulnerabilities, and provides real-time analysis of new crate versions. Below is the overview of CratesPro.
+CratesPro is a sophisticated platform designed to analyze and evaluate Rust crates. By leveraging AI-driven models and multidimensional analytics, CratesPro provides developers with comprehensive insights and intelligent recommendations about crates, helping to identify potential vulnerabilities, optimize dependencies, and enhance security and efficiency in Rust development. The platform tracks dependencies, monitors the propagation of vulnerabilities, and provides real-time analysis of new crate versions. 
+
+<!--
+Below is the overview of CratesPro.
 
 
 <div style="text-align: center;">
@@ -22,7 +24,7 @@ And below is the build system.
 <div style="text-align: center;">
   <img src="../images/image2.png" alt="Build System" style="width: 65%; height: auto;">
 </div>
-
+--->
 
 ### Features
 #### AI-Powered Multi-Dimensional Analysis
