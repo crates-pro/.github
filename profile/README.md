@@ -31,29 +31,3 @@ With the rapid expansion of the Rust ecosystem, developers face increasing chall
 1. **For crate and application developers**, it is critical to ensure their programs meet high standards of security and robustness. They also want their open-source projects to be discovered and used by more Rustaceans, possibly attracting more contributors to maintain and improve the project.
 2. **For Rust users**, the main goal is to find high-quality crates that meet functional requirements while also offering features such as higher security for program robustness and active community support to ensure continuous updates and improvements.
 3. **For Rust researchers**, the need is to identify relevant datasets from the massive pool of crates, integrate tools, and automate data collection and analysis to improve research efficiency and result reliability.
-
-
-### Key Features
-
-CratesPro provides a suite of powerful features to help developers, researchers, and ecosystem users achieve higher efficiency and security in managing and optimizing Rust projects. Here are the key features:
-
-#### AI-Driven Multidimensional Recommendations
-
-**CratesPro** uses large language models (LLMs) to perform comprehensive multidimensional analysis of Rust crates and intelligently recommend the most suitable libraries. The platform analyzes code structure, dependencies, historical vulnerability patterns, and more to provide optimization suggestions. This helps developers enhance security, reduce potential flaws and inefficiencies, and make precise selections from the vast library of Rust crates, ensuring project stability and quality.
-
-#### Security Detection and Risk Assessment
-
-CratesPro automatically detects potential vulnerabilities in Rust crates, including logic flaws, security risks, and performance bottlenecks. Through intelligent pattern recognition technology, the platform scans crate code and its dependencies to identify threats and weaknesses. Vulnerabilities are reported with detailed information, offering targeted fixes, helping developers address issues before release, and ensuring the security and stability of their programs.
-
-#### Ecosystem-wide Vulnerability Propagation Tracking
-
-CratesPro not only tracks vulnerabilities in individual crates but also monitors their propagation across the ecosystem. The platform continuously monitors crate version updates, cross-referencing with known CVE databases, and provides developers with the latest vulnerability information. When a new vulnerability is detected, CratesPro notifies affected crates and visualizes the propagation path, helping developers comprehensively assess security risks and take quick preventive measures to minimize the likelihood of attacks.
-
-#### User-Uploaded Crates for Comprehensive Analysis
-
-CratesPro allows developers to upload custom crates for in-depth analysis. After uploading, the platform evaluates the crate, checks for dependencies, potential vulnerabilities, and compatibility with other Rust libraries. This feature helps developers ensure the safety and reliability of their crates before release, preventing potential issues from being exposed to the community and ensuring long-term stability within the ecosystem.
-
-#### Support for Researcher Plugins
-
-CratesPro specially supports researchers by enabling them to customize analysis plugins for the platform. Researchers can select relevant datasets and execute plugins to collect data. This feature allows researchers to automate analysis and efficiently gather data, advancing Rust ecosystem research and innovation, and enhancing the platform’s value for academic applications.
-
